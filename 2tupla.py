@@ -1,0 +1,5 @@
+cores = ('vermelho', 'azul', 'verde', 'amarelo', 'preto')
+print(cores.index('verde'))
+print(cores.count('azul'))
+soma = cores + ('branco', 'cinza')
+print(soma)
